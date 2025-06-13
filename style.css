@@ -1,0 +1,37 @@
+h1
+    {
+        color:green;
+        font-family: 'Times New Roman';
+        }
+p, title
+    {
+        color:rgb(56, 5, 80);
+        font-family: Impact;
+        }
+
+article
+    {
+        background-color: teal;
+        background-image:url("https://th.bing.com/th/id/OIP.JdvV7qdxNc0oPt_bGautOwHaFi?rs=1&pid=ImgDetMain");
+        width: 100;
+        height: 100;
+        color:red;
+        font-family: Impact;
+    }
+
+.blur
+{
+    backdrop-filter: blur(5px);
+    background-color: rgb(255, 255, 255, 0, 3)
+}
+
+p
+    {
+        color:blue;
+    }
+
+a:hover
+    {
+        color:black;
+    }
+
