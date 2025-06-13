@@ -3,7 +3,7 @@ h1
         color:green;
         font-family: 'Times New Roman';
         }
-p, title
+p, h2
     {
         color:rgb(56, 5, 80);
         font-family: Impact;
@@ -24,11 +24,6 @@ article
     backdrop-filter: blur(5px);
     background-color: rgb(255, 255, 255, 0, 3)
 }
-
-p
-    {
-        color:blue;
-    }
 
 a:hover
     {
