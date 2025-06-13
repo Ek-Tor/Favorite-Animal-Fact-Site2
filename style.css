@@ -42,23 +42,3 @@ a:hover
         color:black;
     }
 
-input[type="text"]
-    {
-        border: 1px solid red;
-    }
-    .container
-    {
-        display:flex;
-        flex-direction:row;
-        justify-content:center;
-        align-items:center;
-        height:15px;
-        background-color: lightgray;
-    }
-    .item
-    {
-        flex:1;
-        align-self:center;
-        background-color: slateblue;
-        color:white;
-    }
