@@ -3,7 +3,7 @@ h1
         color:green;
         font-family: 'Times New Roman';
         }
-h3, h2
+ h2
     {
         color:rgb(56, 5, 80);
         font-family: Impact;
@@ -11,7 +11,7 @@ h3, h2
 
 p
     {
-         color:pink;
+         color:rgb(0, 0, 0);
     }
 
 
